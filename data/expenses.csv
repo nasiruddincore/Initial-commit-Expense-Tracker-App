@@ -1,0 +1,8 @@
+date,category,amount,payment_method
+2026-04-15,Food,0.0,Cash
+2026-04-15,Food,2000.0,Cash
+2026-04-15,Travel,100000.0,Cash
+2026-04-15,Rent,250000.0,Cash
+2026-04-15,Shopping,50000.0,Cash
+2026-04-15,Bills,300000.0,Cash
+2026-04-15,Entertainment,300000.0,Cash
